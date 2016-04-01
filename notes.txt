@@ -1,0 +1,4 @@
+Useful links:
+
+http://www.ryadel.com/en/using-github-with-mercurial-and-tortoisehg/
+
