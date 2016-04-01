@@ -1,0 +1,18 @@
+syntax: glob
+CVS
+Generated/*.cs
+packages
+*.nupkg
+*.suo
+*.user
+bin/*
+obj/*
+TestResults/*
+*.psess
+*.vsp
+*~
+*.orig
+_deployment/*
+Backup/*
+UpgradeLog.htm
+*.override.xml
