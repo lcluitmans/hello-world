@@ -2,3 +2,21 @@ Useful links:
 
 http://www.ryadel.com/en/using-github-with-mercurial-and-tortoisehg/
 
+Snippet from .hgrc:
+-------
+[paths]
+default = f:\Mercurial\GitTest-hello-world
+GitHub = git+https://github.com/lcluitmans/hello-world.git
+-------
+
+Edit the tortoisehg configuration file (use the settings menu) to
+(the file is C:\Users\<user>\mercurial.ini)
+
+-------
+[auth]
+(.....)
+github.prefix = https://github.com/
+github.username = lcluitmans
+-------
+
+
